@@ -1,0 +1,15 @@
+{
+  "main.css": "/four-app/static/css/main.5c24f9e6.chunk.css",
+  "main.js": "/four-app/static/js/main.3c23c27c.chunk.js",
+  "main.js.map": "/four-app/static/js/main.3c23c27c.chunk.js.map",
+  "static/js/1.e142c7c0.chunk.js": "/four-app/static/js/1.e142c7c0.chunk.js",
+  "static/js/1.e142c7c0.chunk.js.map": "/four-app/static/js/1.e142c7c0.chunk.js.map",
+  "static/js/2.c364b1a8.chunk.js": "/four-app/static/js/2.c364b1a8.chunk.js",
+  "static/js/2.c364b1a8.chunk.js.map": "/four-app/static/js/2.c364b1a8.chunk.js.map",
+  "runtime~main.js": "/four-app/static/js/runtime~main.b70f6aa6.js",
+  "runtime~main.js.map": "/four-app/static/js/runtime~main.b70f6aa6.js.map",
+  "static/css/main.5c24f9e6.chunk.css.map": "/four-app/static/css/main.5c24f9e6.chunk.css.map",
+  "index.html": "/four-app/index.html",
+  "precache-manifest.d82f990e29b47527ff1c1448346c43ef.js": "/four-app/precache-manifest.d82f990e29b47527ff1c1448346c43ef.js",
+  "service-worker.js": "/four-app/service-worker.js"
+}
