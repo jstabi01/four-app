@@ -1,0 +1,33 @@
+.choice-container {
+  display: flex;
+  justify-content: center;
+}
+
+.choice {
+  padding: 1px 5px;
+  font-weight: 900;
+  border: 2px solid;
+  margin: 2px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.selected {
+  background-color: #141c3a;
+}
+.selected-eraser {
+  background: lightblue;
+}
+
+.selected p {
+  color: white;
+}
+
+.noSelect {
+    user-select: none;
+}
+
+.noSelect:focus {
+    outline: none !important;
+}

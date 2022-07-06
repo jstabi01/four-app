@@ -1,0 +1,19 @@
+.Cell {
+    height: 70px;
+    width: 70px;
+    background-color: rgb(61, 20, 78);
+    cursor: pointer;
+    border-style: solid;
+    border-width: 1px;
+    border-color: grey;
+  
+  }
+  
+  .Cell-lit {
+    background-color: rgb(151, 255, 137);
+    border: purple;
+    border-style: solid;
+    border-width: 1px;
+    border-color: grey;
+  
+  }

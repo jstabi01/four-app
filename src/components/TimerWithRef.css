@@ -1,0 +1,9 @@
+
+
+h1.Timer-wrapper {
+    display: inline-block;
+    padding: 2px;
+    border: 1px solid red;
+    width: 100px;
+    display: none;
+   }

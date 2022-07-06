@@ -1,0 +1,19 @@
+div.title {
+    border-style: dashed;
+    border-width: 2px;
+    border-color: whitesmoke;
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 300px;
+    width: 500px;
+    text-align: center;
+    position: relative;
+    margin: auto;
+}
+
+.titleWords {
+    color: greenyellow;
+}
+
+.titleButton {
+    
+}
